@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DadosProject</string>
+    <string name="jogador1_name">Jogador1</string>
+    <string name="jogador2_name">Jogador2</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="text_result" />
+</resources>
